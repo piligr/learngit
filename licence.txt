@@ -1,1 +1,2 @@
 test the git add
+test the diff -- head 
